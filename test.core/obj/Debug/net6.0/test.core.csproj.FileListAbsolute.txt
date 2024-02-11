@@ -1,0 +1,12 @@
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\bin\Debug\net6.0\test.core.deps.json
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\bin\Debug\net6.0\test.core.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\bin\Debug\net6.0\test.core.pdb
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.csproj.AssemblyReference.cache
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.AssemblyInfoInputs.cache
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.AssemblyInfo.cs
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.csproj.CoreCompileInputs.cache
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\refint\test.core.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\test.core.pdb
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.core\obj\Debug\net6.0\ref\test.core.dll

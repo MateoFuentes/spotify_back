@@ -1,0 +1,15 @@
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\bin\Debug\net6.0\test.infraestructure.deps.json
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\bin\Debug\net6.0\test.infraestructure.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\bin\Debug\net6.0\test.infraestructure.pdb
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\bin\Debug\net6.0\test.core.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\bin\Debug\net6.0\test.core.pdb
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.csproj.AssemblyReference.cache
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.AssemblyInfoInputs.cache
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.AssemblyInfo.cs
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.csproj.CopyComplete
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\refint\test.infraestructure.dll
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\test.infraestructure.pdb
+C:\Users\fuentes.dayron\Documents\dev\test_back\test.infraestructure\obj\Debug\net6.0\ref\test.infraestructure.dll
